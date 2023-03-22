@@ -7,11 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://trvr.micro.blog/2023/03/22/i-love-the.html",
+				
+				"content_html": "<p>I love the days that my watch buzzes with a “it seems like you’re awake” message and asks if I want to “Turn off alarm”. That’s a good start to a day! ☕️</p>\n",
+				"content_text": "I love the days that my watch buzzes with a “it seems like you’re awake” message and asks if I want to “Turn off alarm”. That’s a good start to a day! ☕️\n",
+				"date_published": "2023-03-22T06:04:18-06:00",
+				"url": "https://www.trevormanternach.com/2023/03/22/i-love-the.html"
+			},
+			{
 				"id": "http://trvr.micro.blog/2022/11/29/i-am-so.html",
 				
 				"content_html": "<p>I am so glad Black Friday and Cyber Monday are over now. The more I age, the less interested I am in all of this.</p>\n",
 				"content_text": "I am so glad Black Friday and Cyber Monday are over now. The more I age, the less interested I am in all of this.\n",
-				"date_published": "2022-11-29T07:01:58-07:00",
+				"date_published": "2022-11-29T08:01:58-06:00",
 				"url": "https://www.trevormanternach.com/2022/11/29/i-am-so.html"
 			},
 			{
@@ -19,7 +27,7 @@
 				"title": "Audiobooks",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>It’s been years since I last paid for an Audible.com subscription. I just signed up this week ($5/month for 3 months) and it’s been a delight so far. I discovered that you can pretty easily remove the DRM on the audiobook .aax file. I am using <a href=\"https://audible-converter.ml/\">Audible Tools</a> to help me create the ffmpeg command to do this.</p>\n<p>Another recent discovery is that <a href=\"https://overcast.fm/\">Overcast</a>, my podcast player of choice, seems to natively support .m4b files (audiobook file format). It even includes artwork and chapters, so it behaves just like most of the podcasts I listen to.</p>\n",
-				"date_published": "2022-11-25T19:54:28-07:00",
+				"date_published": "2022-11-25T20:54:28-06:00",
 				"url": "https://www.trevormanternach.com/2022/11/25/audiobooks.html"
 			},
 			{
@@ -27,7 +35,7 @@
 				
 				"content_html": "<p>I left Twitter back in April when this Elon news first broke. I cannot understand the people who are arguing for staying at this point. None of these people would join a new social network ran by Elon Musk, but they have convinced themselves to stay on twitter. I think it has more to do with stroking egos than anyone wants to admit.</p>\n<p>No follower count is worth your integrity.</p>\n",
 				"content_text": "I left Twitter back in April when this Elon news first broke. I cannot understand the people who are arguing for staying at this point. None of these people would join a new social network ran by Elon Musk, but they have convinced themselves to stay on twitter. I think it has more to do with stroking egos than anyone wants to admit.\r\n\r\nNo follower count is worth your integrity.\n",
-				"date_published": "2022-11-11T08:34:49-07:00",
+				"date_published": "2022-11-11T09:34:49-06:00",
 				"url": "https://www.trevormanternach.com/2022/11/11/i-left-twitter.html"
 			},
 			{
@@ -35,7 +43,7 @@
 				
 				"content_html": "<p>Someone found my old iPod nano. Circa 2012. Still works perfectly! 🎶📱</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Someone found my old iPod nano. Circa 2012. Still works perfectly! 🎶📱\n\n<img src=\"uploads/2022/240e4256b0.jpg\" width=\"455\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-10-25T11:10:29-07:00",
+				"date_published": "2022-10-25T12:10:29-06:00",
 				"url": "https://www.trevormanternach.com/2022/10/25/someone-found-my.html"
 			},
 			{
@@ -43,7 +51,7 @@
 				
 				"content_html": "<p>Went and spent a couple of nights in Canada this weekend. Hadn&rsquo;t been there since January 2020, felt good to get away. Saw a hockey game and a movie; both were fun!</p>\n",
 				"content_text": "Went and spent a couple of nights in Canada this weekend. Hadn't been there since January 2020, felt good to get away. Saw a hockey game and a movie; both were fun!\n",
-				"date_published": "2022-10-23T17:06:51-07:00",
+				"date_published": "2022-10-23T18:06:51-06:00",
 				"url": "https://www.trevormanternach.com/2022/10/23/went-and-spent.html"
 			},
 			{
@@ -51,7 +59,7 @@
 				
 				"content_html": "<p>A Day in the Life. 4:45PM, Montana. Finishing up First Grade math homework. 👦🏻✏️</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "A Day in the Life. 4:45PM, Montana. Finishing up First Grade math homework. 👦🏻✏️\n\n<img src=\"uploads/2022/5e309d6649.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-10-13T15:46:01-07:00",
+				"date_published": "2022-10-13T16:46:01-06:00",
 				"url": "https://www.trevormanternach.com/2022/10/13/a-day-in.html"
 			},
 			{
@@ -59,7 +67,7 @@
 				
 				"content_html": "<p>I just got my COVID-19 booster vaccine and a flu shot at a drive-through clinic. Starting to feel like this is just going to be a fall tradition for life. 🏥</p>\n",
 				"content_text": "I just got my COVID-19 booster vaccine and a flu shot at a drive-through clinic. Starting to feel like this is just going to be a fall tradition for life. 🏥\n",
-				"date_published": "2022-10-12T10:39:29-07:00",
+				"date_published": "2022-10-12T11:39:29-06:00",
 				"url": "https://www.trevormanternach.com/2022/10/12/i-just-got.html"
 			},
 			{
@@ -67,7 +75,7 @@
 				
 				"content_html": "<p>I finished <a href=\"https://www.hulu.com/series/legacy-the-true-story-of-the-la-lakers-dbe09f5a-2604-45dd-9997-2391a9639ffb\">the Lakers documentary</a> on Hulu last night. I hadn&rsquo;t cried over Kobe&rsquo;s death in a long time. Overall the entire 10-episode show was amazing. 🟪 🟨 🏀 🏆</p>\n",
 				"content_text": "I finished [the Lakers documentary](https://www.hulu.com/series/legacy-the-true-story-of-the-la-lakers-dbe09f5a-2604-45dd-9997-2391a9639ffb) on Hulu last night. I hadn't cried over Kobe's death in a long time. Overall the entire 10-episode show was amazing. 🟪 🟨 🏀 🏆\n",
-				"date_published": "2022-10-12T07:32:54-07:00",
+				"date_published": "2022-10-12T08:32:54-06:00",
 				"url": "https://www.trevormanternach.com/2022/10/12/i-finished-the.html"
 			},
 			{
@@ -75,7 +83,7 @@
 				
 				"content_html": "<p>Searching through old email, I came across this from 2007. This is how easy it was to post to twitter from the terminal back in those days:</p>\n<p><code>curl -u username:password -d status=&quot;Tweet goes here&quot; http://twitter.com/statuses/update.xml</code></p>\n<p>I miss the simpler days of the internet. 👴🏻🔊☁️</p>\n",
 				"content_text": "Searching through old email, I came across this from 2007. This is how easy it was to post to twitter from the terminal back in those days:\r\n\r\n`curl -u username:password -d status=\"Tweet goes here\" http://twitter.com/statuses/update.xml`\r\n\r\nI miss the simpler days of the internet. 👴🏻🔊☁️\n",
-				"date_published": "2022-09-28T08:24:15-07:00",
+				"date_published": "2022-09-28T09:24:15-06:00",
 				"url": "https://www.trevormanternach.com/2022/09/28/searching-through-old.html"
 			},
 			{
@@ -83,7 +91,7 @@
 				
 				"content_html": "<p>Adnan is free!!</p>\n",
 				"content_text": "Adnan is free!! \n",
-				"date_published": "2022-09-19T19:08:06-07:00",
+				"date_published": "2022-09-19T20:08:06-06:00",
 				"url": "https://www.trevormanternach.com/2022/09/19/adnan-is-free.html"
 			},
 			{
@@ -91,7 +99,7 @@
 				
 				"content_html": "<p>good game serena. good career. go serena. 🎾 🐐</p>\n",
 				"content_text": "good game serena. good career. go serena. 🎾 🐐\n",
-				"date_published": "2022-09-02T19:27:41-07:00",
+				"date_published": "2022-09-02T20:27:41-06:00",
 				"url": "https://www.trevormanternach.com/2022/09/02/good-game-serena.html"
 			},
 			{
@@ -99,7 +107,7 @@
 				
 				"content_html": "<p>The earliest photo I have of me at a computer. Circa 1997!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "The earliest photo I have of me at a computer. Circa 1997!\r\n\r\n<img src=\"uploads/2022/c7a994e3c3.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
-				"date_published": "2022-08-18T09:35:08-07:00",
+				"date_published": "2022-08-18T10:35:08-06:00",
 				"url": "https://www.trevormanternach.com/2022/08/18/the-earliest-photo.html"
 			},
 			{
@@ -107,7 +115,7 @@
 				"title": "How to re-map your Fn/Globe 🌐 key to anything",
 				"content_html": "<p>The newer Apple laptops have the Function key pulling double duty as a &ldquo;🌐 Globe key&rdquo;. This must be mapped to the emoji picker by default, because it would randomly appear on my screen whenever I accidently hit the key by itself. I wanted a way to be able to re-map this key to anything I wanted. Here are the two simple steps to get this done. Note that this requires <a href=\"https://www.keyboardmaestro.com/\">Keyboard Maestro</a>.</p>\n<h3 id=\"step-1-disable-system-default\">Step 1: Disable system default</h3>\n<ul>\n<li>Open <strong>System Preferences -&gt; Keyboard</strong> and set &ldquo;Press 🌐 to&rdquo; to <em>Do Nothing</em></li>\n</ul>\n<!-- raw HTML omitted -->\n<h3 id=\"step-2-keyboard-maestro\">Step 2: Keyboard Maestro</h3>\n<ul>\n<li>\n<p>Create a macro and set the <em>Trigger</em> to <strong>Hot Key Trigger</strong>. Press the 🌐 icon. The UI inserts a question mark, but it does actually work.</p>\n<!-- raw HTML omitted -->\n</li>\n</ul>\n<p>I am using <a href=\"https://www.raycast.com/\">Raycast</a> as my Spotlight replacement these days. I couldn&rsquo;t map 🌐 directly in Raycast, so I left it as <strong>⌘+Space</strong> and then the KM macro types <strong>⌘+Space</strong> when triggered.</p>\n<p>That&rsquo;s it! You now have a single keystroke that still works as a Fn key when held.</p>\n",
 				"content_text": "The newer Apple laptops have the Function key pulling double duty as a \"🌐 Globe key\". This must be mapped to the emoji picker by default, because it would randomly appear on my screen whenever I accidently hit the key by itself. I wanted a way to be able to re-map this key to anything I wanted. Here are the two simple steps to get this done. Note that this requires [Keyboard Maestro](https://www.keyboardmaestro.com/).\r\n\r\n### Step 1: Disable system default\r\n\r\n- Open __System Preferences -> Keyboard__ and set \"Press 🌐 to\" to _Do Nothing_\r\n \r\n\r\n<img src=\"uploads/2022/5e8bb659a3.png\" width=\"600\" height=\"535\" alt=\"screenshot of Keyboard System Preferences on macOS\" />\r\n\r\n### Step 2: Keyboard Maestro\r\n\r\n- Create a macro and set the _Trigger_ to __Hot Key Trigger__. Press the 🌐 icon. The UI inserts a question mark, but it does actually work.\r\n\r\n  <img src=\"uploads/2022/188d14e20a.png\" width=\"600\" height=\"654\" alt=\"\" />\r\n  \r\nI am using [Raycast](https://www.raycast.com/) as my Spotlight replacement these days. I couldn't map 🌐 directly in Raycast, so I left it as __⌘+Space__ and then the KM macro types __⌘+Space__ when triggered.\r\n\r\nThat's it! You now have a single keystroke that still works as a Fn key when held.\n",
-				"date_published": "2022-08-07T07:19:03-07:00",
+				"date_published": "2022-08-07T08:19:03-06:00",
 				"url": "https://www.trevormanternach.com/2022/08/07/how-to-remap.html"
 			},
 			{
@@ -115,7 +123,7 @@
 				
 				"content_html": "<p>I had to share my Wordle solve today. It&rsquo;s perfectly U-shaped!</p>\n<p>Wordle 383 4/6*</p>\n<p>🟩⬜⬜⬜🟩<br>\n🟩⬜⬜⬜🟩<br>\n🟩⬜⬜⬜🟩<br>\n🟩🟩🟩🟩🟩</p>\n",
 				"content_text": "I had to share my Wordle solve today. It's perfectly U-shaped!\r\n\r\nWordle 383 4/6*\r\n\r\n🟩⬜⬜⬜🟩   \r\n🟩⬜⬜⬜🟩  \r\n🟩⬜⬜⬜🟩  \r\n🟩🟩🟩🟩🟩  \n",
-				"date_published": "2022-07-07T07:28:40-07:00",
+				"date_published": "2022-07-07T08:28:40-06:00",
 				"url": "https://www.trevormanternach.com/2022/07/07/i-had-to.html"
 			},
 			{
@@ -123,7 +131,7 @@
 				
 				"content_html": "<p>I got my first <a href=\"https://www.apple.com/shop/product/MN2G3AM/A/41mm-lemon-zest-solo-loop-size-1\">Solo Loop Apple Watch band</a> today. It feels so different than the Sport Band I&rsquo;ve had since I got my watch. It doesn&rsquo;t even feel like I&rsquo;m wearing a watch anymore, I love it!</p>\n",
 				"content_text": "I got my first [Solo Loop Apple Watch band](https://www.apple.com/shop/product/MN2G3AM/A/41mm-lemon-zest-solo-loop-size-1) today. It feels so different than the Sport Band I've had since I got my watch. It doesn't even feel like I'm wearing a watch anymore, I love it!\n",
-				"date_published": "2022-07-06T18:48:01-07:00",
+				"date_published": "2022-07-06T19:48:01-06:00",
 				"url": "https://www.trevormanternach.com/2022/07/06/i-got-my.html"
 			},
 			{
@@ -131,7 +139,7 @@
 				
 				"content_html": "<p>I am having fun building a small electronics workbench in my basement. Here I used some left-over 3D printed clips for PVC pipe to build a wire spool holder.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "I am having fun building a small electronics workbench in my basement. Here I used some left-over 3D printed clips for PVC pipe to build a wire spool holder.\r\n\r\n<img src=\"uploads/2022/83c6487d99.jpg\" width=\"600\" height=\"450\" alt=\"Close-up of wire\" />\r\n\r\n<img src=\"uploads/2022/189e241ce3.jpg\" width=\"600\" height=\"450\" alt=\"photo of entire electronics workbench\" />\n",
-				"date_published": "2022-07-05T06:59:53-07:00",
+				"date_published": "2022-07-05T07:59:53-06:00",
 				"url": "https://www.trevormanternach.com/2022/07/05/i-am-having.html"
 			},
 			{
@@ -139,7 +147,7 @@
 				
 				"content_html": "<p>I got my first <a href=\"https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/\">electric toothbrush</a> and was blown away at how forceful it is. Not in a bad way, and I don&rsquo;t know what I <em>was</em> expecting, but it definitely surprised me! 🪥</p>\n",
 				"content_text": "I got my first [electric toothbrush](https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/) and was blown away at how forceful it is. Not in a bad way, and I don't know what I *was* expecting, but it definitely surprised me! 🪥\n",
-				"date_published": "2022-06-15T04:24:36-07:00",
+				"date_published": "2022-06-15T05:24:36-06:00",
 				"url": "https://www.trevormanternach.com/2022/06/15/i-got-my.html"
 			},
 			{
@@ -147,7 +155,7 @@
 				
 				"content_html": "<p>Making some popcorn at the local movie theatre tonight. I love this old Manley machine! 🦖🦕</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Making some popcorn at the local movie theatre tonight. I love this old Manley machine! 🦖🦕\n\n<img src=\"uploads/2022/42213e3f3b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-06-11T18:29:23-07:00",
+				"date_published": "2022-06-11T19:29:23-06:00",
 				"url": "https://www.trevormanternach.com/2022/06/11/making-some-popcorn.html"
 			},
 			{
@@ -155,7 +163,7 @@
 				
 				"content_html": "<p>I avoided all of the WWDC rumors that I could over the last couple of weeks; I wanted to try to enter the keynote with no expectations. Not entirely sure how I feel about everything that was (or wasn&rsquo;t) discussed yet, though. Still soaking it all in. Macbook Air looks great!</p>\n",
 				"content_text": "I avoided all of the WWDC rumors that I could over the last couple of weeks; I wanted to try to enter the keynote with no expectations. Not entirely sure how I feel about everything that was (or wasn't) discussed yet, though. Still soaking it all in. Macbook Air looks great!\n",
-				"date_published": "2022-06-06T14:36:26-07:00",
+				"date_published": "2022-06-06T15:36:26-06:00",
 				"url": "https://www.trevormanternach.com/2022/06/06/i-avoided-all.html"
 			},
 			{
@@ -163,7 +171,7 @@
 				
 				"content_html": "<p>I just filled my coffee pot up for the morning. And then hit the &ldquo;On&rdquo; button instead of the &ldquo;Schedule&rdquo; button. They are right next to each other, it was bound to happen eventually! ☕</p>\n",
 				"content_text": "I just filled my coffee pot up for the morning. And then hit the \"On\" button instead of the \"Schedule\" button. They are right next to each other, it was bound to happen eventually! ☕\n",
-				"date_published": "2022-06-05T20:34:11-07:00",
+				"date_published": "2022-06-05T21:34:11-06:00",
 				"url": "https://www.trevormanternach.com/2022/06/05/i-just-filled.html"
 			},
 			{
@@ -171,7 +179,7 @@
 				"title": "My iPod history",
 				"content_html": "<p>Last month Apple <a href=\"https://www.apple.com/newsroom/2022/05/the-music-lives-on/\">announced</a> the end of the iPod. I thought it might be fun to document my history with the product.</p>\n<p>&ndash;</p>\n<p>I got my first iPod in March 2005. I believe I bought mine at Best Buy on a weekend trip 350 miles away from home.</p>\n<!-- raw HTML omitted -->\n<p>I was listening to a lot of podcasts in those early days and had to use <a href=\"https://en.wikipedia.org/wiki/Juice_(aggregator)\">&ldquo;podcatcher&rdquo; software</a> because iTunes didn&rsquo;t support podcasts yet. That changed later that year when <a href=\"https://en.wikipedia.org/wiki/History_of_iTunes#iTunes_4\">iTunes 4.9</a> added podcasts and the rest is history.</p>\n<p>I visited that same Best Buy a couple years later when the iPod Touch was released. I remember checking their website and they said they had them in stock, but when I got to the store I couldn&rsquo;t find them. I finally asked and they were still in the back, they went and got one for me.</p>\n<!-- raw HTML omitted -->\n<p>The iPod Touch was so much fun back then. The iPhone wasn&rsquo;t &ldquo;in&rdquo; Montana back then (no joke) and so the Touch was as close as I could get. I remember jailbreaking the thing, and even hanging out in IRC chatrooms trying to troubleshoot my jailbreak attempts. :-D</p>\n<p>This past winter I spent ~$100 on new parts to revive my old 4th gen iPod. It now has new life with <a href=\"https://www.ifixit.com/Store/iPod/iPod-4G-Photo-Battery/IF193-016?o=3\">a fresh battery</a> and <a href=\"https://www.iflash.xyz/store/iflash-solo/\">an SD card</a> in place of the 20GB spinning hard drive. It&rsquo;s hard to believe a piece of consumer technology from 17 years ago is still alive and well.</p>\n<p>I love iPod. It was one of my first adventures into a lifetime of technology.</p>\n",
 				"content_text": "Last month Apple [announced](https://www.apple.com/newsroom/2022/05/the-music-lives-on/) the end of the iPod. I thought it might be fun to document my history with the product.\r\n\r\n--\r\n\r\nI got my first iPod in March 2005. I believe I bought mine at Best Buy on a weekend trip 350 miles away from home.\r\n\r\n<img src=\"uploads/2022/b067afaef7.jpg\" width=\"600\" height=\"450\" alt=\"Picture of my first iPod\" />\r\n\r\nI was listening to a lot of podcasts in those early days and had to use [\"podcatcher\" software](https://en.wikipedia.org/wiki/Juice_(aggregator)) because iTunes didn't support podcasts yet. That changed later that year when [iTunes 4.9](https://en.wikipedia.org/wiki/History_of_iTunes#iTunes_4) added podcasts and the rest is history.\r\n\r\nI visited that same Best Buy a couple years later when the iPod Touch was released. I remember checking their website and they said they had them in stock, but when I got to the store I couldn't find them. I finally asked and they were still in the back, they went and got one for me.\r\n\r\n<img src=\"uploads/2022/1bd82ebf84.jpg\" width=\"600\" height=\"450\" alt=\"My first iPod Touch\" />\r\n\r\nThe iPod Touch was so much fun back then. The iPhone wasn't \"in\" Montana back then (no joke) and so the Touch was as close as I could get. I remember jailbreaking the thing, and even hanging out in IRC chatrooms trying to troubleshoot my jailbreak attempts. :-D\r\n\r\nThis past winter I spent ~$100 on new parts to revive my old 4th gen iPod. It now has new life with [a fresh battery](https://www.ifixit.com/Store/iPod/iPod-4G-Photo-Battery/IF193-016?o=3) and [an SD card](https://www.iflash.xyz/store/iflash-solo/) in place of the 20GB spinning hard drive. It's hard to believe a piece of consumer technology from 17 years ago is still alive and well.\r\n\r\nI love iPod. It was one of my first adventures into a lifetime of technology.\n",
-				"date_published": "2022-06-04T06:41:07-07:00",
+				"date_published": "2022-06-04T07:41:07-06:00",
 				"url": "https://www.trevormanternach.com/2022/06/04/my-ipod-history.html"
 			},
 			{
@@ -179,7 +187,7 @@
 				
 				"content_html": "<p>Day31: <strong>endurance</strong></p>\n<p>I bought an exercise bike last month to try to build some endurance. It made me realize how out of shape I am! #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day31: **endurance**\n\nI bought an exercise bike last month to try to build some endurance. It made me realize how out of shape I am! #mbmay\n\n<img src=\"uploads/2022/f6fb069b02.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-31T13:31:54-07:00",
+				"date_published": "2022-05-31T14:31:54-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/31/day-endurance-i.html"
 			},
 			{
@@ -187,7 +195,7 @@
 				
 				"content_html": "<p>Day 30: <strong>fish</strong></p>\n<p>Only fish I could find today. From our “art” door to our pantry. #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 30: **fish**\n\nOnly fish I could find today. From our “art” door to our pantry. #mbmay\n\n<img src=\"uploads/2022/10af477d14.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-30T19:23:00-07:00",
+				"date_published": "2022-05-30T20:23:00-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/30/day-fish-only.html"
 			},
 			{
@@ -195,7 +203,7 @@
 				
 				"content_html": "<p>Day 29: <strong>stripes</strong></p>\n<p>One room in our basement is wood paneling. Maybe if we wait long enough it will come back into style? 😂 #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 29: **stripes**\n\nOne room in our basement is wood paneling. Maybe if we wait long enough it will come back into style? 😂 #mbmay\n\n<img src=\"uploads/2022/80bfd32a30.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-29T17:36:00-07:00",
+				"date_published": "2022-05-29T18:36:00-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/29/day-stripes-one.html"
 			},
 			{
@@ -203,7 +211,7 @@
 				
 				"content_html": "<p>Day 28: <strong>fair</strong></p>\n<p>This horse carousel reminds me of a county fair. #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 28: **fair**\n\nThis horse carousel reminds me of a county fair. #mbmay\n\n<img src=\"uploads/2022/36212bc847.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-28T13:33:56-07:00",
+				"date_published": "2022-05-28T14:33:56-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/28/day-fair-this.html"
 			},
 			{
@@ -211,7 +219,7 @@
 				
 				"content_html": "<p>Day 27: <strong>written</strong></p>\n<p>One of my favorite albums, Happy Endings from Old Dominion. #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 27: **written**\n\nOne of my favorite albums, Happy Endings from Old Dominion. #mbmay\n\n<img src=\"uploads/2022/8be4560577.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-27T17:25:01-07:00",
+				"date_published": "2022-05-27T18:25:01-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/27/day-written-one.html"
 			},
 			{
@@ -219,7 +227,7 @@
 				
 				"content_html": "<p>Day 26: <strong>schedule</strong></p>\n<p>Some Schedule 40 pipe from my garage. I just realized I have no idea why they use the word “schedule”. #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 26: **schedule**\n\nSome Schedule 40 pipe from my garage. I just realized I have no idea why they use the word “schedule”. #mbmay\n\n<img src=\"uploads/2022/5081ccfa65.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-26T09:35:11-07:00",
+				"date_published": "2022-05-26T10:35:11-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/26/day-schedule-some.html"
 			},
 			{
@@ -227,7 +235,7 @@
 				
 				"content_html": "<p>Day 25: <strong>mountain</strong></p>\n<p>As a teenager I was addicted to Mountain Dew. Collected so many boxes I built an igloo! 🤦🏻‍♂️ #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 25: **mountain**\n\nAs a teenager I was addicted to Mountain Dew. Collected so many boxes I built an igloo! 🤦🏻‍♂️ #mbmay\n\n<img src=\"uploads/2022/b8b97e795c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-25T09:09:56-07:00",
+				"date_published": "2022-05-25T10:09:56-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/25/day-mountain-as.html"
 			},
 			{
@@ -235,7 +243,7 @@
 				
 				"content_html": "<p>Day 24: <strong>intricate</strong></p>\n<p>I have a Rowe jukebox that came with the original manual. I love how intricate the diagrams are! #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 24: **intricate**\n\nI have a Rowe jukebox that came with the original manual. I love how intricate the diagrams are! #mbmay\n\n<img src=\"uploads/2022/558b7c2b96.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-24T14:48:02-07:00",
+				"date_published": "2022-05-24T15:48:02-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/24/day-intricate-i.html"
 			},
 			{
@@ -243,7 +251,7 @@
 				
 				"content_html": "<p>Day 23: <strong>plain</strong></p>\n<p>Taken a few years ago. I love the plains. #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 23: **plain**\n\nTaken a few years ago. I love the plains. #mbmay\n\n<img src=\"uploads/2022/d92b75d4ee.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2022-05-23T15:43:12-07:00",
+				"date_published": "2022-05-23T16:43:12-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/23/day-plain-taken.html"
 			},
 			{
@@ -251,7 +259,7 @@
 				
 				"content_html": "<p>Day 22: <strong>textile</strong></p>\n<p>Cool blanket in the sun I found today. #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 22: **textile**\n\nCool blanket in the sun I found today. #mbmay\n\n<img src=\"uploads/2022/db76ea045c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-22T12:18:27-07:00",
+				"date_published": "2022-05-22T13:18:27-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/22/day-textile-cool.html"
 			},
 			{
@@ -259,7 +267,7 @@
 				
 				"content_html": "<p>Day 21: <strong>symmetry</strong></p>\n<p>T for Trevor. #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 21: **symmetry**\n\nT for Trevor. #mbmay\n\n<img src=\"uploads/2022/43a82a30a1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-21T19:43:42-07:00",
+				"date_published": "2022-05-21T20:43:42-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/21/day-symmetry-t.html"
 			},
 			{
@@ -267,7 +275,7 @@
 				
 				"content_html": "<p>Day 20: <strong>beverage</strong></p>\n<p>Coffee is my worst addiction. #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 20: **beverage** \n\nCoffee is my worst addiction. #mbmay\n\n<img src=\"uploads/2022/11a3081121.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-20T11:19:14-07:00",
+				"date_published": "2022-05-20T12:19:14-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/20/day-beverage-coffee.html"
 			},
 			{
@@ -275,7 +283,7 @@
 				
 				"content_html": "<p>Day 19: <strong>indulgence</strong></p>\n<p>I can’t open a sleeve of saltine crackers with eating them all. #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 19: **indulgence** \n\nI can’t open a sleeve of saltine crackers with eating them all. #mbmay\n\n<img src=\"uploads/2022/efc49aea84.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-19T13:08:05-07:00",
+				"date_published": "2022-05-19T14:08:05-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/19/day-indulgence-i.html"
 			},
 			{
@@ -283,7 +291,7 @@
 				
 				"content_html": "<p>Day 18: <strong>random</strong></p>\n<p>A little Random-Access Memory for today’s photo. #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 18: **random** \n\nA little Random-Access Memory for today’s photo. #mbmay\n\n<img src=\"uploads/2022/b22b5448f0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2022-05-18T14:08:12-07:00",
+				"date_published": "2022-05-18T15:08:12-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/18/day-random-a.html"
 			},
 			{
@@ -291,7 +299,7 @@
 				
 				"content_html": "<p>Day 17: <strong>hold</strong></p>\n<p>My bike riding has been on hold this Spring. Just got the new tubes I ordered today. Can’t wait! #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 17: **hold** \n\nMy bike riding has been on hold this Spring. Just got the new tubes I ordered today. Can’t wait! #mbmay\n\n<img src=\"uploads/2022/e72ce0ed1d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-17T13:42:46-07:00",
+				"date_published": "2022-05-17T14:42:46-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/17/day-hold-my.html"
 			},
 			{
@@ -299,7 +307,7 @@
 				
 				"content_html": "<p>Day 16: <strong>time</strong></p>\n<p>I love neon signs. #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 16: **time** \n\nI love neon signs. #mbmay\n\n<img src=\"uploads/2022/b1348eb01b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-16T11:51:00-07:00",
+				"date_published": "2022-05-16T12:51:00-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/16/day-time-i.html"
 			},
 			{
@@ -307,7 +315,7 @@
 				
 				"content_html": "<p>Day 15: <strong>clouds</strong></p>\n<p>Old cassette tape from my dad’s pickup when I inherited it. #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 15: **clouds** \n\nOld cassette tape from my dad’s pickup when I inherited it. #mbmay\n\n<img src=\"uploads/2022/15f0f79918.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-15T16:26:26-07:00",
+				"date_published": "2022-05-15T17:26:26-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/15/day-clouds-old.html"
 			},
 			{
@@ -315,7 +323,7 @@
 				
 				"content_html": "<p>Day 14: <strong>fence</strong></p>\n<p>From last summer’s demolition derby. He climbed the fence for a better view. #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 14: **fence** \n\nFrom last summer’s demolition derby. He climbed the fence for a better view. #mbmay\n\n<img src=\"uploads/2022/ba571440ae.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-14T06:40:23-07:00",
+				"date_published": "2022-05-14T07:40:23-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/14/day-fence-from.html"
 			},
 			{
@@ -323,7 +331,7 @@
 				
 				"content_html": "<p>Day 13: <strong>community</strong></p>\n<p>My kid enjoyed watching the community kids play basketball as he took a breather. #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 13: **community** \n\nMy kid enjoyed watching the community kids play basketball as he took a breather. #mbmay\n\n<img src=\"uploads/2022/0404d3eb25.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2022-05-13T19:07:30-07:00",
+				"date_published": "2022-05-13T20:07:30-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/13/day-community-my.html"
 			},
 			{
@@ -331,7 +339,7 @@
 				
 				"content_html": "<p>Day 12: <strong>tranquility</strong></p>\n<p>I’ve really been enjoying the Mindful Cooldown exercises on Apple Fitness+. #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 12: **tranquility** \n\nI’ve really been enjoying the Mindful Cooldown exercises on Apple Fitness+. #mbmay\n\n<img src=\"uploads/2022/4c739c7e7a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-12T15:04:16-07:00",
+				"date_published": "2022-05-12T16:04:16-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/12/day-tranquility-ive.html"
 			},
 			{
@@ -339,7 +347,7 @@
 				
 				"content_html": "<p>Day 11: <strong>maroon</strong></p>\n<p>I don’t have a lot of maroon in my life it turns out. Found this rug at work this morning. #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 11: **maroon** \n\nI don’t have a lot of maroon in my life it turns out. Found this rug at work this morning. #mbmay\n\n<img src=\"uploads/2022/acd2c5af45.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-11T12:34:27-07:00",
+				"date_published": "2022-05-11T13:34:27-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/11/day-maroon-i.html"
 			},
 			{
@@ -347,7 +355,7 @@
 				
 				"content_html": "<p>Day 10: <strong>pot</strong></p>\n<p>This flower pot before I removed the dead leaves. I don’t have the greenest thumb! #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 10: **pot** \n\nThis flower pot before I removed the dead leaves. I don’t have the greenest thumb! #mbmay\n\n<img src=\"uploads/2022/e3dcaf7fe2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-10T16:18:25-07:00",
+				"date_published": "2022-05-10T17:18:25-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/10/day-pot-this.html"
 			},
 			{
@@ -355,7 +363,7 @@
 				
 				"content_html": "<p>It&rsquo;s peacefully raining right now and there is a bird just having the time of its life singing. It feels like a meditation sound recording. 🌦️ 🐦 🎵</p>\n",
 				"content_text": "It's peacefully raining right now and there is a bird just having the time of its life singing. It feels like a meditation sound recording. 🌦️ 🐦 🎵\n",
-				"date_published": "2022-05-09T11:40:54-07:00",
+				"date_published": "2022-05-09T12:40:54-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/09/its-peacefully-raining.html"
 			},
 			{
@@ -363,7 +371,7 @@
 				
 				"content_html": "<p>Day 9: <strong>bloom</strong></p>\n<p>Trimmed these hedges over the weekend. #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 9: **bloom** \n\nTrimmed these hedges over the weekend. #mbmay\n\n<img src=\"uploads/2022/844f1efdba.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-09T11:18:14-07:00",
+				"date_published": "2022-05-09T12:18:14-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/09/day-bloom-trimmed.html"
 			},
 			{
@@ -371,7 +379,7 @@
 				
 				"content_html": "<p>Day 8: <strong>union</strong></p>\n<p>Union always makes me thing of trains. We played with our old electric train set last night and found this “union”. #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 8: **union** \n\nUnion always makes me thing of trains. We played with our old electric train set last night and found this “union”. #mbmay\n\n<img src=\"uploads/2022/87f6b4756f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-08T14:34:19-07:00",
+				"date_published": "2022-05-08T15:34:19-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/08/day-union-union.html"
 			},
 			{
@@ -379,7 +387,7 @@
 				
 				"content_html": "<p>Day 7: <strong>park</strong></p>\n<p>This is from last summer. Found a cool park in the next town over that has some fun colorful equipment! 🐜 #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 7: **park** \n\nThis is from last summer. Found a cool park in the next town over that has some fun colorful equipment! 🐜 #mbmay\n\n<img src=\"uploads/2022/dd2fb816e4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2022-05-07T15:48:18-07:00",
+				"date_published": "2022-05-07T16:48:18-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/07/day-park-this.html"
 			},
 			{
@@ -387,7 +395,7 @@
 				
 				"content_html": "<p>Day 6: <strong>silhouette</strong></p>\n<p>#mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 6: **silhouette** \n\n#mbmay\n\n<img src=\"uploads/2022/e0258af8d1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-06T15:13:20-07:00",
+				"date_published": "2022-05-06T16:13:20-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/06/day-silhouette-mbmay.html"
 			},
 			{
@@ -395,7 +403,7 @@
 				
 				"content_html": "<p>Day 5: <strong>earth</strong></p>\n<p>We bought a globe a couple weeks ago. I am terrible with geography and would like to improve. #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 5: **earth** \n\nWe bought a globe a couple weeks ago. I am terrible with geography and would like to improve. #mbmay\n\n<img src=\"uploads/2022/86435891fc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-05T12:56:51-07:00",
+				"date_published": "2022-05-05T13:56:51-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/05/day-earth-we.html"
 			},
 			{
@@ -403,7 +411,7 @@
 				
 				"content_html": "<p>Day 4: <strong>thorny</strong></p>\n<p>Not actually a thorn, but the closest thing I could find! #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 4: **thorny** \n\nNot actually a thorn, but the closest thing I could find! #mbmay\n\n<img src=\"uploads/2022/13322f1961.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-04T18:09:12-07:00",
+				"date_published": "2022-05-04T19:09:12-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/04/day-thorny-not.html"
 			},
 			{
@@ -411,7 +419,7 @@
 				
 				"content_html": "<p>Day 3: <strong>experimental</strong></p>\n<p>Last year I designed my first printed circuit board. Learned so much! #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 3: **experimental** \n\nLast year I designed my first printed circuit board. Learned so much! #mbmay\n\n<img src=\"uploads/2022/3f912c00d0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-03T13:12:34-07:00",
+				"date_published": "2022-05-03T14:12:34-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/03/day-experimental-last.html"
 			},
 			{
@@ -419,7 +427,7 @@
 				
 				"content_html": "<p>Day 2: <strong>photo</strong></p>\n<p>From our last vacation before the pandemic. We miss 🇨🇦! #mbmay</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 2: **photo** \n\nFrom our last vacation before the pandemic. We miss 🇨🇦! #mbmay\n\n<img src=\"uploads/2022/5f73849aae.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-05-02T06:31:53-07:00",
+				"date_published": "2022-05-02T07:31:53-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/02/day-photo-from.html"
 			},
 			{
@@ -427,7 +435,7 @@
 				
 				"content_html": "<p>Day 1: <strong>switch</strong></p>\n<p>1969 pinball machine. Everything is a <strong>switch</strong>. #mbmay\n<!-- raw HTML omitted --></p>\n",
 				"content_text": "Day 1: **switch**\r\n\r\n1969 pinball machine. Everything is a **switch**. #mbmay\r\n<img src=\"uploads/2022/760f8960db.jpg\" width=\"600\" height=\"600\" alt=\"close-up photo of a 1969 pinball machine switch\" />\r\n",
-				"date_published": "2022-05-01T07:31:59-07:00",
+				"date_published": "2022-05-01T08:31:59-06:00",
 				"url": "https://www.trevormanternach.com/2022/05/01/day-switch-pinball.html"
 			},
 			{
@@ -435,7 +443,7 @@
 				"title": "AdGuard Wildcard DNS with Nginx Proxy Manager",
 				"content_html": "<p>I started using Nginx Proxy Manger at home recently and found a fast and easy way to add internal domains to it. Here is a simple walkthrough.</p>\n<h3 id=\"prerequisites\">Prerequisites</h3>\n<ul>\n<li>You need to be using <a href=\"https://adguard.com/en/adguard-home/overview.html\">AdGuard Home</a> for DNS</li>\n<li>You want to quickly add new domains to <a href=\"https://nginxproxymanager.com/\">Nginx Proxy Manager</a></li>\n</ul>\n<h3 id=\"adguard-home-setup\">AdGuard Home setup</h3>\n<p>In the AdGuard Home web interface, go to Filters-&gt;DNS rewrites.</p>\n<!-- raw HTML omitted -->\n<p>Click <strong>Add DNS rewrite</strong> and enter something like <em>*.home</em> in the domain name field.</p>\n<p>Enter the IP address of your NPM host and click <strong>Save</strong>.</p>\n<h3 id=\"nginx-proxy-manager\">Nginx Proxy Manager</h3>\n<!-- raw HTML omitted -->\n<p>There really isn&rsquo;t anything special to do in NPM. Just add a Proxy Host and in the domain names field you can enter anything as long as it ends in .home (or whatever you chose for a wildcard). www.home even works!</p>\n<p>Another little feature I discovered while setting this up is that I can add multiple domain names for each proxy host. So <em>adguard.home</em> and <em>dns.home</em> can both get me to the same place. This helps when I can&rsquo;t remember the name of a service, or when you can software you can keep using something like <em>dashboard.home</em> for your <a href=\"https://github.com/bastienwirtz/homer\">dashboard of choice</a>.</p>\n",
 				"content_text": "I started using Nginx Proxy Manger at home recently and found a fast and easy way to add internal domains to it. Here is a simple walkthrough.\n\n### Prerequisites\n\n- You need to be using [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) for DNS\n- You want to quickly add new domains to [Nginx Proxy Manager](https://nginxproxymanager.com/)\n\n### AdGuard Home setup\n\nIn the AdGuard Home web interface, go to Filters->DNS rewrites.\n\n<img src=\"uploads/2022/dc6d82e829.png\" width=\"500\" height=\"514\" alt=\"Screenshot of DNS rewrite options on AdGuard Home\" />\n\nClick **Add DNS rewrite** and enter something like *\\*.home* in the domain name field.\n\nEnter the IP address of your NPM host and click **Save**.\n\n### Nginx Proxy Manager\n\n<img src=\"uploads/2022/27051dde98.png\" width=\"500\" height=\"546\" alt=\"Screenshot of Nginx Proxy Manager\" />\n\nThere really isn't anything special to do in NPM. Just add a Proxy Host and in the domain names field you can enter anything as long as it ends in .home (or whatever you chose for a wildcard). www.home even works!\n\nAnother little feature I discovered while setting this up is that I can add multiple domain names for each proxy host. So *adguard.home* and *dns.home* can both get me to the same place. This helps when I can't remember the name of a service, or when you can software you can keep using something like *dashboard.home* for your [dashboard of choice](https://github.com/bastienwirtz/homer).\n\n",
-				"date_published": "2022-04-30T09:45:51-07:00",
+				"date_published": "2022-04-30T10:45:51-06:00",
 				"url": "https://www.trevormanternach.com/2022/04/30/adguard-wildcard-dns.html"
 			},
 			{
@@ -443,7 +451,7 @@
 				
 				"content_html": "<p>I didn&rsquo;t even know <a href=\"https://www.nintendo.com/store/products/nintendo-switch-sports-switch/\">Nintendo Switch Sports</a> was coming out. Spent the $40 immediately this morning. I have very fond memories of Wii Sports; hoping my kids can feel the same way about this new version! 🎾 ⚽ 🎳 🎮</p>\n",
 				"content_text": "I didn't even know [Nintendo Switch Sports](https://www.nintendo.com/store/products/nintendo-switch-sports-switch/) was coming out. Spent the $40 immediately this morning. I have very fond memories of Wii Sports; hoping my kids can feel the same way about this new version! 🎾 ⚽ 🎳 🎮\n",
-				"date_published": "2022-04-30T07:07:08-07:00",
+				"date_published": "2022-04-30T08:07:08-06:00",
 				"url": "https://www.trevormanternach.com/2022/04/30/i-didnt-even.html"
 			},
 			{
@@ -451,7 +459,7 @@
 				
 				"content_html": "<p>My first nice pen ever, the limited edition Mark One. Loving the color even more than I thought I would!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "My first nice pen ever, the limited edition Mark One. Loving the color even more than I thought I would!\n\n<img src=\"uploads/2022/3a59428370.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-04-26T10:24:51-07:00",
+				"date_published": "2022-04-26T11:24:51-06:00",
 				"url": "https://www.trevormanternach.com/2022/04/26/my-first-nice.html"
 			},
 			{
@@ -459,7 +467,7 @@
 				
 				"content_html": "<p>Trying to figure out a sprinkler system when it’s entirely buried in the ground is just lovely. 🤥</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Trying to figure out a sprinkler system when it’s entirely buried in the ground is just lovely. 🤥\n\n<img src=\"uploads/2022/1aedacc43f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-04-26T06:21:35-07:00",
+				"date_published": "2022-04-26T07:21:35-06:00",
 				"url": "https://www.trevormanternach.com/2022/04/26/trying-to-figure.html"
 			}
 	]
